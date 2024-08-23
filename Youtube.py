@@ -6,7 +6,7 @@ import re
 from datetime import timedelta, datetime
 
 # Your API Key here
-API_KEY = 'AIzaSyCYF0spPJdkeUHDoHgC5fldppDZGibE2HQ'
+API_KEY = 'YOUR API KEY'
 
 # Set up YouTube API client
 youtube = build('youtube', 'v3', developerKey=API_KEY)
